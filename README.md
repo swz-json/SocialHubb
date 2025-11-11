@@ -1,25 +1,33 @@
 ![Frame4](https://github.com/Skolaczk/SocialHub/assets/76774237/43e2de3a-5c6d-4f8d-bdee-72af55916d01)
 
-## Frontend
+![Frame4](https://github.com/Skolaczk/SocialHub/assets/76774237/d0d66aca-400f-45cf-8812-d2188d8dac9f)
 
-### Installation 💾
-My node version is 19.8.1 <br />
-Download the project to your computer and install needed packages with command:
+## Project Overview 🎉
+SocialHub is a next-generation social media app developed using Next.js and Nest.js. It offers a modern interface and seamless user experience for connecting and exploring content.
 
-```bash
-$ npm install
-```
-Then create .env.local file:
-```bash
-APP_URL='http://localhost:3000/'
-API_URL='http://localhost:8000/'
+## Live 📍
 
-```
+Link to the live version: [https://socialhub-ms.vercel.app](https://socialhub-ms.vercel.app/)
 
-Then start the project on the local server with the command:
+## Tech/framework used 🔧
+### Frontend:
+- Next.js
+- Typescript
+- Tailwind CSS
+- Shadcn/UI
+- React-hook-form
+- Zod
 
-```bash
-$ npm run dev
-```
+### Backend:
+- Nest.js
+- Typescript
+- Prisma
+- JWT
+- Passport
 
-and open http://localhost:3000/ to see this app.
+## Screenshots 📺
+![image](https://github.com/Skolaczk/SocialHub/assets/76774237/1a13daf9-a023-4e4a-8c8b-65c3ad7c7081)
+![image](https://github.com/Skolaczk/SocialHub/assets/76774237/3a58e1d6-5662-4801-b49d-aca5fc45fd1d)
+![image](https://github.com/Skolaczk/SocialHub/assets/76774237/3ff648ef-a468-42a9-8162-2464f787a341)
+![image](https://github.com/Skolaczk/SocialHub/assets/76774237/8c9d7267-0410-457e-a99a-4a83b311090d)
+![image](https://github.com/Skolaczk/SocialHub/assets/76774237/933502a0-7fd8-40eb-8be7-697a9153bb4b)
