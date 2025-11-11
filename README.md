@@ -1,4 +1,3 @@
-![Frame4](https://github.com/Skolaczk/SocialHub/assets/76774237/43e2de3a-5c6d-4f8d-bdee-72af55916d01)
 
 ![Frame4](https://github.com/Skolaczk/SocialHub/assets/76774237/d0d66aca-400f-45cf-8812-d2188d8dac9f)
 
